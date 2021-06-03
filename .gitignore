@@ -1,0 +1,9 @@
+*.npy
+*.csv
+*.ipynb
+.idea/
+*.png
+__pycache__/
+*.pyc
+
+logs/
