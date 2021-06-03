@@ -1,4 +1,6 @@
-Please cite below paper if the codes are helpful to you
+Please cite below paper if the codes are helpful to you:
+
+
 [1] Mo, L. ,  Zhu, L. ,  Ma, J. ,  Wang, D. , &  Wang, H. . (2021). Mdrsteg: large-capacity image steganography based on multi-scale dilated resnet and combined chi-square distance loss. Journal of Electronic Imaging, 30(1).
 
 # Experiment summary
